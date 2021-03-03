@@ -1,4 +1,4 @@
-package sef.module6.activity;
+package activity;
 
 
 
@@ -8,6 +8,7 @@ public class InheritanceActivity {
 		
 		// Create Person object p. Write code to and set name of Person as Sarah Johnson
 		// and age as 21
+
 		
 		
 		
